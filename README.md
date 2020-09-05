@@ -3,8 +3,8 @@
 </a>
 
 
-来都来了不给我的项目点个star吗😛
-要不要顺便去我的[blog][https://cuya.xyz]转转？
+来都来了不给我的项目点个star吗😛  
+要不要顺便去我的[blog](https://cuya.xyz)转转？
 ### 正在玩的游戏:
 ![](https://img.shields.io/badge/-Mindustry-orange?style=flat-square)
 ![](https://img.shields.io/badge/-minecraft-brightgreen?style=flat-square)
