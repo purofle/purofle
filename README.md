@@ -9,4 +9,4 @@
 ![](https://img.shields.io/badge/-minecraft-brightgreen?style=flat-square)
 ### 正在学习/使用的语言:
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Kotlin&logoColor=fff)
+![](https://img.shields.io/badge/-Kotlin-blue?style=flat-square&logo=Kotlin&logoColor=fff)
