@@ -4,6 +4,7 @@
 ## 关于我
 - 一个什么都想学又什么都不会的小垃圾
 - 一个马上就没时间摸鱼的初三学生
+- Archer!
 - Minecraft 玩家
 
 这里是我的 Blog（东西少的可怜）: [cuya.xyz](https://cuya.xyz)
