@@ -6,6 +6,7 @@
 - 一个马上就没时间摸鱼的初三学生
 - Archer!
 - Minecraft 玩家
+- 原批
 
 这里是我的 Blog（东西少的可怜）: [cuya.xyz](https://cuya.xyz)
 
@@ -15,8 +16,9 @@
 
 ---
 
-下面是我的个人面板（跟大佬的比差远了）:joy:：
+下面是我的个人面板:joy:：
 ![](https://github.com/purofle/github-stats/blob/master/generated/overview.svg)
+![](https://genshin-card.getloli.com/rand/275401245.png)
 
 <div align="center">
 
