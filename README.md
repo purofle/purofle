@@ -7,9 +7,8 @@
 - 已经没时间摸鱼的初三学生
 - Archer
 - Minecraft 玩家
-- ~~原批~~
 
-这里是我的 Blog: [blog.archlinux.tech](https://blog.archlinux.tech)
+我的 Blog: [blog.archlinux.tech](https://blog.archlinux.tech)
 
 ---
 <div align="center">
