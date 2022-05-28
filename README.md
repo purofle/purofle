@@ -1,12 +1,10 @@
 # purofle
 
-***中考将至，项目暂停更新。***
-
 你好，感谢你来到我的Github主页！
 ## 关于我
-- 已经没时间摸鱼的初三学生
 - Archer
 - Minecraft 玩家
+- ~~全栈~~(x) 全沾
 
 我的 Blog: [blog.archlinux.tech](https://blog.archlinux.tech)
 
