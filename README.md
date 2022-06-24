@@ -8,8 +8,13 @@
 
 我的 Blog: [blog.archlinux.tech](https://blog.archlinux.tech)
 
----
- 
-| Genshin Impact | github | language | 
-| :---: | :---: | :---: |
-|![](https://genshin-card.getloli.com/rand/275401245.png)|![](https://github.com/purofle/github-stats/blob/master/generated/overview.svg)|![](https://github.com/purofle/github-stats/blob/master/generated/languages.svg)|
+## status
+
+### Genshin Impact
+|![](https://genshin-card.getloli.com/rand/275401245.png)
+
+### Github
+![](https://github.com/purofle/github-stats/blob/master/generated/overview.svg)
+
+### Language
+![](https://github.com/purofle/github-stats/blob/master/generated/languages.svg)
