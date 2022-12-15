@@ -11,9 +11,9 @@ class Purofle: ChineseStudent(Province.HENAN) {
     
     inner class ContactMe {
         val telegram = "t.me/purolle"
-        val email = "purofle@gmail.com"
-        val discord = "Purofle#0001"
-        val matrix = "purof1e:matrix.org"
+        val email    = "purofle@gmail.com"
+        val discord  = "Purofle#0001"
+        val matrix   = "purof1e:matrix.org"
     }
 }
 ```
