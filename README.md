@@ -3,9 +3,9 @@
 class Purofle: ChineseStudent(Province.HENAN) {
     val usedLanguage = mapOf(
         "Kotlin"      to "kotlinlang.org",
-        "Python"      to "python.org"
-        "ShellScript" to "shellscript.sh"
-        "C++"         to "cplusplus.com"
+        "Python"      to "python.org",
+        "ShellScript" to "shellscript.sh",
+        "C++"         to "cplusplus.com",
     )
     val blogUrl = "blog.archlinux.tech"
     
