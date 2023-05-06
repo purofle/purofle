@@ -20,7 +20,7 @@ fn main() {
             "who" => { println!("{}", "I'm purofle!".bright_cyan()) },
             "where" => { println!("{}", "Henan, China".bright_blue()) },
             "blog" => { println!("{}", "blog.archlinux.tech".bright_green()) },
-            "status" => { println!("{}", "I'm a student, very busy :(".bright_yellow()) },
+            "status" => { println!("{}", "I'm a student at high school, very busy :(".bright_yellow()) },
             "stack" => { println!("{}, {}, {}, {}, {}",
                 "Kotlin".on_bright_purple().purple(),
                 "Java".on_bright_red().red(),
