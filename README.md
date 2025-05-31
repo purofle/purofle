@@ -17,7 +17,10 @@ I'm passionate about a few things:
     - *[CyberWoodenFish](https://github.com/chitangUI/CyberWoodenFish), a simple "wooden fish" game I built with [Unity](https://unity.com/).*
     - *Also developed [NMSLauncher](https://github.com/purofle/NMSLauncher), a Material You style Minecraft launcher.*
 -   **Operating Systems & Infrastructure:**
--   **Content Creation:** Using tools like Typst for document creation (see my [blog](https://github.com/purofle/blog)).
+-   - Diving into the internals of Linux and macOS.
+-   **Content Creation:**
+    - Sharing insights on my blog: [blog.archlinux.tech](blog.archlinux.tech).
+    - Creating videos on [Bilibili](https://space.bilibili.com/155496836).
 -   **Rhythm Games:** A huge fan of [maimai DX](https://maimai.sega.com/) and [CHUNITHM](https://chunithm.sega.com/)!
 -   **Cute Things!** My avatar is [Elaina](https://wandering-witch.fandom.com/wiki/Elaina) from *Wandering Witch: The Journey of Elaina*.
 ---
