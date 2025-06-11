@@ -1,6 +1,6 @@
 ### Hey there, I'm Purofle! :wave:
 
-You can also call me **日落果** (Rìluòguǒ), which is my Chinese name.
+You can also call me **日落果** (Rìluòguǒ), which is my Chinese nickname.
 It's pronounced `/ʐɚ⁵¹ lwo⁵¹ kwo²¹⁴/`.
 
 ---
