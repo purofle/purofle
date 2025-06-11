@@ -21,8 +21,6 @@ I'm passionate about a few things:
 -   **Content Creation:**
     - Sharing insights on my blog: [blog.archlinux.tech](https://blog.archlinux.tech).
     - Creating videos on [Bilibili](https://space.bilibili.com/155496836).
--   **Rhythm Games:** A huge fan of [maimai DX](https://maimai.sega.com/) and [CHUNITHM](https://chunithm.sega.com/)!
--   **Cute Things!** My avatar is [Elaina](https://wandering-witch.fandom.com/wiki/Elaina) from *Wandering Witch: The Journey of Elaina*.
 ---
 
 ### :sparkles: My GitHub Stats
