@@ -14,7 +14,7 @@ I'm passionate about a few things:
 -   **Web Technologies:** Building server-side applications with Golang and JVM(Kotlin and Java).
 -   **Operating Systems & Infrastructure:**
 -   - Diving into the internals of Linux and macOS.
-    - ~~Sign a contract with me and become a magical girl from RISC-V?~~
+    - ~~Sign a contract with me and become a RISC-V magical girl?~~
 -   **Content Creation:**
     - Sharing insights on my blog: [blog.akana.moe](https://blog.akana.moe).
 ---
