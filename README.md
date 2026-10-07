@@ -19,6 +19,15 @@ I'm passionate about a few things:
     - Sharing insights on my blog: [blog.akana.moe](https://blog.akana.moe).
 ---
 
+### :video_game: Play games with me
+
+Here are the games I've been playing recently:
+- Delta Force(China)
+- Escape From Tarkov
+- Arknights(Bilibili)
+- Maimai DX ![Maimai DX Rating](https://dxrating.luoling.moe/api/luoxue/genImage/955163387726213)
+- And some other rhythm games!
+
 ### :sparkles: My GitHub Stats
 
 | [![Purofle's GitHub stats](https://github-readme-stats-neon-nine-18.vercel.app/api?username=purofle&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/purofle) | [![Top Langs](https://github-readme-stats-neon-nine-18.vercel.app/api/top-langs/?username=purofle&layout=compact&theme=buefy&hide_border=true)](https://github.com/purofle) |
